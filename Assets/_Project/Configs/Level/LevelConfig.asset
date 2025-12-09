@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa7be5733d7fc244b85507c16f7a5353, type: 3}
+  m_Name: LevelConfig
+  m_EditorClassIdentifier: Assembly-CSharp::LevelConfig
+  _items:
+  - {fileID: 11400000, guid: 7a3e0dc553bce524283368eeb06cf66a, type: 2}
+  - {fileID: 11400000, guid: 0bcf0a60d158ace4db8fc83acf1ce200, type: 2}
+  - {fileID: 11400000, guid: 230a25edc4c58934fa6139afa7bc032f, type: 2}
+  - {fileID: 11400000, guid: 9e08790a1d1d4bd4da66c61cac4ac8e9, type: 2}
+  - {fileID: 11400000, guid: 9c16601196b127a47956d82bc6aa4fbf, type: 2}
+  - {fileID: 11400000, guid: 33c5448f7854d9d4db445c9d899d13ac, type: 2}
+  _maxfindingSlotsCount: 3
+  _showImages: 1
+  _useTimer: 1
+  _timerSeconds: 120
+  _levelController: {fileID: 6791767853221539597, guid: 852406e44d888144fb06cae5694b6f3a, type: 3}
